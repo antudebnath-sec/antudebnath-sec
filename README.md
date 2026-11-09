@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Focus: Offensive security, Web application security, Penetration testing and vulnerability research<br>Also work in digital forensics and OSINT<br> Responsible disclosure and bug bounty research<br>All testing is performed ethically and with authorisation<br>
 
 
